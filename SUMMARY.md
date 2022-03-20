@@ -1,11 +1,11 @@
 # Table of contents
 
-* [How do I put it to use?](README.md)
+* [❓ How do I put it to use?](README.md)
 
 ## The Company
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Updates and Error fixes](the-company/updates-and-error-fixes.md)
+* [Wildlife Productions](the-company/wildlife-productions.md)
 
 ## The Formal Stuff
 
