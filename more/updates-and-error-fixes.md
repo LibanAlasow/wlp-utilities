@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Untitled_2.png
 coverY: 0
 ---
 
-# Updates and Error fixes
+# ⚙ Updates and Error fixes
 
 ### Newest Features
 
